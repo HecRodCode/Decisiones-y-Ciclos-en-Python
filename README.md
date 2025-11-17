@@ -27,3 +27,5 @@ Un bucle infinito es un ciclo en un programa que se ejecuta indefinidamente porq
 #### **Como prevenirlos:**
 1. <ins><strong>Verificar condiciones de salida clara:</strong></ins> siempre hay que asegurarnos de que el ciclo tenga una condición que pueda cumplirse y que lleve a la terminación del bucle.
 2. <ins><strong>Diseñar una buena lógica del bucle:</strong></ins> evitar errores lógicos como confundir operadores de asignación = con comparativos ==.
+3. <ins><strong>Usar contadores o límites maximos:</strong></ins> implementar contadores que restrinjan un número máximo de iteraciones para evitar que el ciclo se ejecute indefinidamente accidentalmente.<br>
+   [AcademiaLab](https://academia-lab.com/enciclopedia/bucle-infinito/)
