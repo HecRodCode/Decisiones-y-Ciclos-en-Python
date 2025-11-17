@@ -41,6 +41,14 @@ Un bucle infinito es un ciclo en un programa que se ejecuta indefinidamente porq
 
       print("Esa no es. Intenta de nuevo.")
 
-  - ### <ins><strong>Continue</strong></ins> La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, para continuar para completar el resto del bucle.
+- ### <ins><strong>Continue</strong></ins> La instrucción continue da la opción de omitir la parte de un bucle en la que se activa una condición externa, para continuar para completar el resto del bucle.
+
+      numeros = [4, -2, 7, -8, 10]
+
+      for n in numeros:
+         if n < 0:
+            continue  # Si el número es negativo, saltamos esta vuelta del ciclo
+
+      print("Procesando:", n)
 
 
