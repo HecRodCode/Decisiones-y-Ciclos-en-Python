@@ -21,3 +21,9 @@
 - **for**:
   El for lo utilizamos cuando se conoce de antemano cuántas veces se debe de ejecutar el bucle. Se usa comúnmente con funciones como range() o al iterar sobre colecciones de datos como listas, diccionarios, cadenas, etc.<br>
 [Khan Academy](https://support.khanacademy.org/hc/es/articles/203327020--Cu%C3%A1ndo-uso-un-bucle-for-y-cu%C3%A1ndo-un-while)
+# Bucles infinitos en Python
+#### **Definición:**
+Un bucle infinito es un ciclo en un programa que se ejecuta indefinidamente porque su condición de salida nunca se cumple, y es fundamental prevenirlo y detectarlo para evitar bloqueos y sobreuso de recursos en una aplicación.<br>
+#### **Como prevenirlos:**
+1. **Verificar condiciones de salida clara:** siempre hay que asegurarnos de que el ciclo tenga una condición que pueda cumplirse y que lleva a la terminación del bucle.
+2. **Diseñar una buena lógica del bucle:** evitar errores lpogicos como confundir operadores de asignación = con comparativos ==.
