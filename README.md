@@ -54,7 +54,7 @@ La instrucción continue da la opción de omitir la parte de un bucle en la que 
       print("Procesando:", n)
 [DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3-es)
 
-# Error más comun
+# Error más común
 El error lógico más común es no modificar la condición del bucle, provocando un bucle infinito.
 
     contador = 1
@@ -65,7 +65,7 @@ El error lógico más común es no modificar la condición del bucle, provocando
 
 Aqui el contador siempre vale 1, así que la condición siempre es verdadera y el programa queda atrapado.
 
-#### ¿Como evitarlo?
+#### ¿Comó evitarlo?
 - Asegurar que la variable usada de condición cambie dentro del bucle.
 - Que en algún momento tengas uan forma de romper el ciclo (break).
 - Revisar que la condición avance donde quieres.
