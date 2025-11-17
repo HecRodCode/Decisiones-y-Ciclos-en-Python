@@ -50,5 +50,4 @@ Un bucle infinito es un ciclo en un programa que se ejecuta indefinidamente porq
             continue  # Si el número es negativo, saltamos esta vuelta del ciclo
 
       print("Procesando:", n)
-
-
+[DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-break-continue-and-pass-statements-when-working-with-loops-in-python-3-es)
