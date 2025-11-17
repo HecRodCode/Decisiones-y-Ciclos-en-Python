@@ -30,7 +30,7 @@ Un bucle infinito es un ciclo en un programa que se ejecuta indefinidamente porq
 3. <ins><strong>Usar contadores o límites maximos:</strong></ins> implementar contadores que restrinjan un número máximo de iteraciones para evitar que el ciclo se ejecute indefinidamente accidentalmente.<br>
    [AcademiaLab](https://academia-lab.com/enciclopedia/bucle-infinito/)
 # ¿Qué función cumplen las sentencias break y continue?
-- #### <ins><>strong>Break</strong><>/ins><br>
+- #### <ins><strong>Break</strong></ins><br>
 La intrucción break nos permite proporciona la oportunidad de cerrar un bucle cuando se activa una condición externa.
 
     while True:
