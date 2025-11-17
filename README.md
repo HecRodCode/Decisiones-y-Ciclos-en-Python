@@ -25,5 +25,5 @@
 #### **Definición:**
 Un bucle infinito es un ciclo en un programa que se ejecuta indefinidamente porque su condición de salida nunca se cumple, y es fundamental prevenirlo y detectarlo para evitar bloqueos y sobreuso de recursos en una aplicación.<br>
 #### **Como prevenirlos:**
-1. **Verificar condiciones de salida clara:** siempre hay que asegurarnos de que el ciclo tenga una condición que pueda cumplirse y que lleva a la terminación del bucle.
+1. <u>**Verificar condiciones de salida clara:**</u> siempre hay que asegurarnos de que el ciclo tenga una condición que pueda cumplirse y que lleva a la terminación del bucle.
 2. **Diseñar una buena lógica del bucle:** evitar errores lpogicos como confundir operadores de asignación = con comparativos ==.
